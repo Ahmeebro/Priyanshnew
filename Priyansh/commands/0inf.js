@@ -24,8 +24,8 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Kolkata").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.imghippo.com/files/lJ8376Tkc.jpg"];
-var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇮🇳 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 🇮🇳 
+["https://imgur.com/a/ep8FAm3.jpg"];
+var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇵🇰 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 🇵🇰 
 (⌐𝔸ℍ𝕄𝔸𝔻一-
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
@@ -34,7 +34,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/ahmadali.safdar.52?mibextid=ZbWKwL 💞🕊️
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @Priyanshrajput😇
+👋For Any Kind Of Help Contact On Telegram  Username 👉 @ahmadalisafdar3😇
 
 ✧══════•❁❀❁•══════✧
 
