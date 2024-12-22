@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: "linkAuto",
+    name: "linkauto",
     version: "1.3.0",
     hasPermssion: 0,
     credits: "ARIF BABU",
