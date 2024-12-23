@@ -4,7 +4,7 @@ module.exports.config = {
   hasPermssion: 0,
   credits: "Amir",
   description: "name maker",
-  commandCategory: "girlsdp dptype",
+  commandCategory: "dp5 dpname",
   usages: "text 1 + text 2",
   cooldowns: 1
 };
