@@ -1,10 +1,10 @@
 module.exports.config = {
-  name: "dpgirl",
+  name: "dpname14",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "Amir",
   description: "name maker",
-  commandCategory: "dp5 dpname",
+  commandCategory: "dpname",
   usages: "text 1 + text 2",
   cooldowns: 1
 };
